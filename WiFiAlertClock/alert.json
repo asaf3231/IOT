@@ -1,0 +1,13 @@
+//This file was created for test purposes
+// for open a local server change
+// const char* apiUrl = “http://<your-computer-ip>:8000/alerts.json";
+// replace your-computer-ip with the actual ip.
+{
+ "data": {
+ "alerts": [
+ {
+ "region": "Test Region",
+ "timestamp": "2025-01-01T12:00:00Z"
+ }
+ ]
+ }
